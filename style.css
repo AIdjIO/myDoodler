@@ -1,0 +1,26 @@
+body{
+    overflow:hidden;
+}
+
+.grid {
+    width:400px;
+    height:600px;
+    background-color: khaki;
+    position:relative;
+    font-size:200px;
+    text-align:center;
+    }
+
+.platform {
+    width:85px;
+    height:15px;
+    background-color:green;
+    position:absolute;
+}
+
+.doodler {
+    width:60px;
+    height:85px;
+    background-color:red;
+    position:absolute;
+}
